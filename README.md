@@ -1,1 +1,3 @@
 # .dotfiles
+
+`python install.py`
